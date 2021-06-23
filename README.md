@@ -1,0 +1,1 @@
+This is project #1 from TheOdinProject's fundamentals track; I'm just doing this for fun, but it's amazingly cool.
